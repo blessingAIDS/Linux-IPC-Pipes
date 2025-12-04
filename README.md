@@ -89,7 +89,7 @@ void client(int wfd, int rfd) {
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-30 215524.png>)
+![alt text](ex3.png)
 
 # RESULT:
 The program is executed successfully.
